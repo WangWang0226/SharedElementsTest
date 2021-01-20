@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+
+        <!-- 設定讓視窗開啟transition -->
+        <item name="android:windowActivityTransitions">true</item>
+
+        <!-- 設定進入動畫與結束動畫要使用哪一種transition-->
+        <item name="android:windowSharedElementEnterTransition">
+            @transition/intent_transform</item>
+        <item name="android:windowSharedElementExitTransition">
+            @transition/intent_transform</item>
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>

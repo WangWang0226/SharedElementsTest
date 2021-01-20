@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- changeBounds是給我們要共享的textview使用  -->
+    <changeBounds />
+    <!-- changeImageTransform給要共享的imageview使用 -->
+    <changeImageTransform/>
+</transitionSet>

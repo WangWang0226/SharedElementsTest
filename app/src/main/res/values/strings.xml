@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">shared_elements_test</string>
+    <string name="content">contentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontentcontent</string>
+<string name="transitionName_image">image</string>
+    <string name="transitionName_title">title</string>
+
+</resources>
